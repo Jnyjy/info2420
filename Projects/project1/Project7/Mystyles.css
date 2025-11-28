@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+border {
+		background-color: #F5F1E6;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:medium;
+		color: #73364c
+	
+}
+
+header {
+	width: 900px;
+	height: 200px;
+	background-color:#A89F97;
+	text-align: center;
+	padding-top: 10px;
+	margin: auto
+		
+} 
+section {
+	width: 900px;
+	background-image: url('Images/2colback.jpg');
+	background-repeat:repeat-y;
+	overflow: hidden;
+	margin: auto;
+}
+
+nav {
+	float: left;
+	width: 250px;
+}
+
+article {
+	float: left;
+	width: 650px;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	width: 900px;
+	height: 70px;
+	background-color: #E8CBC8;
+	margin: auto;
+}
+
+.logoleft {
+	float: left;
+	padding-top: 0px;
+	padding-left: 15px;
+}
+
+nav a {
+	border: 6px inset #CCCCCC;
+	background-color:antiquewhite;
+	line-height: 250%;
+	font-weight: bold;
+	font-size: 35px;
+	color: #A89F97;
+	text-decoration: none;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 20px;
+	font-family: Vivaldi;
+}
+
+nav a:hover    {
+	color: #cc6dd1;
+	border: 2px outset #CCCCCC;
+}
+h1 {
+	color: #0055FF;
+	text-align: center;
+	font-size: xx-large;
+}
+
+p { color: #03B5DD; }
+
+.auto-style1 {
+	float: left;
+	height: 150px;
+	padding:0px 15px 10px 80px;
+	margin-left: 29px;
+}
+h2 { color: #4E79F1;}
+
+h3 { color: #0AD0BE;}
+
+hr { border-style: solid;
+	 border-color: azure;
+	 border-width: 1px;
+}
+
