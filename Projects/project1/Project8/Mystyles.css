@@ -20,7 +20,7 @@ header {
 } 
 section {
 	width: 900px;
-	background-image: url('Images/2colback.jpg');
+	background-image: url('images/2colback.jpg');
 	background-repeat:repeat-y;
 	overflow: hidden;
 	margin: auto;
@@ -166,4 +166,5 @@ hr { border-style: solid;
      padding: 0;
 	 background-color: #E8CBC8;
 	 min-height: 100vh;
+
 }
