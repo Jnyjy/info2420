@@ -1,0 +1,29 @@
+﻿.print-off{
+	display:none;
+}
+
+body{
+	background-color: white;
+	margin: auto;
+}
+
+header {
+	display:none;
+}
+
+section	{
+	width: 100%;
+}
+
+article	{
+	width: 95%;
+	margin: auto;
+	padding-right: 5px;
+}
+nav{
+	display:none;
+}
+
+footer	{
+	display:none;
+}
